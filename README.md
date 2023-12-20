@@ -1,14 +1,10 @@
 # Website-parser
 
-## Project setup (in folder /backend and /frontend)
+## Project setup
 ```
-npm install
+npm run build:frontend & npm run build:backend
 ```
-### Compiles (in folder /frontend)
-```
-npm run build
-```
-### Project start (in folder /backend)
+## Project start
 ```
 npm run start
 ```
