@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm run build:frontend & npm run build:backend
+npm run build
 ```
 ## Project start
 ```
