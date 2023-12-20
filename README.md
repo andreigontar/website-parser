@@ -8,7 +8,7 @@ npm install
 ```
 npm run build
 ```
-### Project start
+### Project start (in folder /backend)
 ```
 npm run start
 ```
